@@ -56,6 +56,7 @@ function App(){
           </div>
         </div>
       }
+      <p className='myName'>&copy; Pranoy Chakraborty. All right reserved </p>  
     </div>
   </div>
 
