@@ -1,0 +1,15 @@
+{
+    "coord": { "lon": 174.9833, "lat": -37.1667 },
+    "weather": [{ "id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n" }],
+    "base": "stations",
+    "main": { "temp": 5.88, "feels_like": 5.88, "temp_min": 5.42, "temp_max": 7.19, "pressure": 1029, "humidity": 96, "sea_level": 1029, "grnd_level": 1017 },
+    "visibility": 10000,
+    "wind": { "speed": 0.69, "deg": 8, "gust": 0.76 },
+    "clouds": { "all": 97 },
+    "dt": 1659374250,
+    "sys": { "type": 1, "id": 7345, "country": "NZ", "sunrise": 1659381510, "sunset": 1659418447 },
+    "timezone": 43200,
+    "id": 2193111,
+    "name": "Bombay",
+    "cod": 200
+}

@@ -30,9 +30,9 @@ function App() {
       </div>
       <div className="container">
         <div className="top">
-          <div className="location">
+          <div className="location_with_country">
             <p>
-              {data.name}, {data.sys.country}
+              {data.name}, {data.main ? <span>{data.sys.country}</span> : null}
             </p>
           </div>
           <div className="temp">
